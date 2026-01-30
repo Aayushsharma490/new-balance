@@ -2,10 +2,15 @@
 
 A modern, high-performance e-commerce platform built with Next.js 14, featuring stunning animations, real product images, and a complete shopping experience.
 
-![New Balance Platform](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render)](https://new-balance.onrender.com)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-FF0055?style=for-the-badge&logo=framer)
+
+## 🌐 Live Demo
+
+**🚀 Visit the live site**: [https://new-balance.onrender.com](https://new-balance.onrender.com)
 
 ## ✨ Features
 
@@ -225,7 +230,21 @@ EMAIL_FROM=noreply@example.com
 
 ## 🚢 Deployment
 
-### Vercel (Recommended)
+### Live Production Site
+**🌐 URL**: [https://new-balance.onrender.com](https://new-balance.onrender.com)
+**Platform**: Render
+**Status**: ✅ Live and Running
+
+### Render Deployment
+The application is currently deployed on Render with automatic deployments from the GitHub repository.
+
+**Features**:
+- ✅ Automatic deployments on git push
+- ✅ Free SSL certificate
+- ✅ CDN integration
+- ✅ Zero-downtime deployments
+
+### Vercel (Alternative)
 1. Push code to GitHub
 2. Import project in Vercel
 3. Configure environment variables
@@ -263,6 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Aayush Sharma**
 - GitHub: [@Aayushsharma490](https://github.com/Aayushsharma490)
 - Repository: [new-balance](https://github.com/Aayushsharma490/new-balance)
+- Live Demo: [https://new-balance.onrender.com](https://new-balance.onrender.com)
 
 ## 🙏 Acknowledgments
 
